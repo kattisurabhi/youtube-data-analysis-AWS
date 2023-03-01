@@ -13,15 +13,15 @@ Details of the video, title, description, number of likes, comment counts, etc, 
 
 Project details and services used:
 
-AWS IAM : Access management to use the services securely
-Amazon S3 : Store the raw and transformed data 
-AWS GLUE : Create database and crawlers on the data to form tables. 
-           Create jobs that run automatically when an event occurs.
-           Preprocess : CSV - Parquet through GLUE job. 
-AWS Lambda : Serverless computing service. 
-             create function to convert the data from json to parquet format. 
-AWS Athena : understanding the data through querying. 
-QuickSight : Visualise the data 
+AWS IAM : Access management to use the services securely. <br>
+Amazon S3 : Store the raw and transformed data <br>
+AWS GLUE : Create database and crawlers on the data to form tables. <br>
+           Create jobs that run automatically when an event occurs. <br>
+           Preprocess : CSV - Parquet through GLUE job. <br>
+AWS Lambda : Serverless computing service. <br>
+             create function to convert the data from json to parquet format. <br>
+AWS Athena : understanding the data through querying. <br>
+QuickSight : Visualise the data <br>
              
 
 
